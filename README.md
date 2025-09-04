@@ -1,1 +1,1 @@
-Passgeni is a simple and secure password generator app for Android and iOS devices, powered by OpenAI. It helps you create strong, unique passwords based on your field/profession effortlessly to keep your accounts safe.
+Passgeni is a simple and secure password generator app for Android and iOS devices, powered by OpenAI. It helps you create strong, unique passwords based on your profession effortlessly to keep your accounts safe.
